@@ -1,3 +1,3 @@
 # Pathzuzy
 
-Python version of Pathzuzu
+Python implementation of Pathzuzu
